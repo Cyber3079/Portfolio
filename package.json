@@ -13,6 +13,9 @@
     "@react-three/fiber": {
       "react": "$react",
       "react-dom": "$react-dom"
+    },
+    "react-tilt": {
+      "@types/react": "$@types/react"
     }
   },
   "dependencies": {

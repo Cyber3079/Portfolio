@@ -17,6 +17,8 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.jpeg";
 import php from "./tech/php.png";
 import cpp from "./tech/cpp.png";
+import Jquery from "./tech/Jquery.png";
+import Wordpress from './tech/Wordpress.png'
 
 
 import tut from "./company/tut.png";
@@ -48,4 +50,6 @@ export {
   tut,
   myspaza,
   live,
+  Wordpress,
+  Jquery,
 };

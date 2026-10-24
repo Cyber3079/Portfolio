@@ -16,6 +16,8 @@ import {
   cpp,
   myspaza,
   threejs,
+  Wordpress,
+  Jquery,
 } from "../assets";
 
 export const navLinks = [
@@ -56,7 +58,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Embedded sysems Developer",
+    title: "Embedded sysems Engineer",
     icon: creator,
   },
 ];
@@ -113,6 +115,16 @@ const technologies = [
     icon: git,
     title:"git/github",
   },
+  {
+    name: "Wordpress",
+    icon: Wordpress,
+    title:"WordPress"
+  },
+  {
+    name: "JQuery",
+    icon: Jquery,
+    title: "Jquery"
+  }
 
 ];
 

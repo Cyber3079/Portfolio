@@ -18,6 +18,7 @@ import {
   threejs,
   Wordpress,
   Jquery,
+  portfolio
 } from "../assets";
 
 export const navLinks = [
@@ -173,6 +174,32 @@ const projects = [
     image: myspaza,
     source_code_link: "https://github.com/Cyber3079/SmartSpaza",
     live_demo: "https://smartspaza.onrender.com/ "
+  },
+  {
+    name: "Keitumetse's Portfolio",
+    description:
+      "Web-based platform that allows small business owner to Record Inventories, Search supplier and Get Advise from AI on how to improve their decision, by using their phones",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Taliwind CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Three.js",
+        color: "pink-text-gradient",
+      },
+       {
+        name: "Javascript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: portfolio,
+    source_code_link: "https://github.com/Cyber3079/Portfolio",
+    live_demo: "https://portfolio.matlhaelakeitumetse.workers.dev/ "
   },
 
  

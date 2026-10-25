@@ -136,12 +136,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "February 2024 - June 2024",
     points: [
-     "Provided homework assistance using specific curriculum and materials. ",
-     "Motivated students towards learning and studying to build self-confidence and reduce fear of failure." ,
-     "Supported students with helpful study habits and exam strategies. " ,
-     "Collaborated with students to complete homework assignments, identify lagging skills, and correct weaknesses.",
-     "Enhanced student understanding of subject matter by incorporating real-world examples into lessons.",
-    "Tutored diverse groups of students to strengthen subject comprehension, boost confidence, and build important learning skills.",
+  "Collaborated with students to resolve complex programming challenges in C++, strengthening their understanding of backend logic and software architecture.",
+  "Developed and implemented comprehensive curriculum materials to build technical proficiency in computer systems engineering ",
+	"Utilized real-world technical examples to illustrate advanced system concepts, improving students' comprehension of application performance and debugging.",
+  "Mentored diverse groups of students in technical communication and problem-solving methodologies to enhance their preparedness for professional development roles.",
+
     ],
   },
  

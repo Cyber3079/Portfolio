@@ -178,7 +178,7 @@ const projects = [
   {
     name: "Keitumetse's Portfolio",
     description:
-      "Web-based platform that allows small business owner to Record Inventories, Search supplier and Get Advise from AI on how to improve their decision, by using their phones",
+      "The page is organized to show developers information. It highlights an overview combining full-stack web development and embedded systems engineering expertise, showcases professional Work experience , details community-focused prototypes, and ends with an interactive contact form.",
     tags: [
       {
         name: "React",

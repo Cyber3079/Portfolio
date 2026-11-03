@@ -19,7 +19,7 @@ import php from "./tech/php.png";
 import cpp from "./tech/cpp.png";
 import Jquery from "./tech/Jquery.png";
 import Wordpress from './tech/Wordpress.png';
-import portfolio from './portfolio.png';
+//import portfolio from './portfolio.png';
 
 
 import tut from "./company/tut.png";
@@ -53,5 +53,5 @@ export {
   live,
   Wordpress,
   Jquery,
-  portfolio,
+  //portfolio,
 };

@@ -18,7 +18,7 @@ import {
   threejs,
   Wordpress,
   Jquery,
-  portfolio
+ // portfolio
 } from "../assets";
 
 export const navLinks = [
@@ -175,34 +175,34 @@ const projects = [
     source_code_link: "https://github.com/Cyber3079/SmartSpaza",
     live_demo: "https://smartspaza.onrender.com/ "
   },
-  {
-    name: "Keitumetse's Portfolio",
-    description:
-      "The page is organized to show developers information. It highlights an overview combining full-stack web development and embedded systems engineering expertise, showcases professional Work experience , details community-focused prototypes, and ends with an interactive contact form.",
-    tags: [
-      {
-        name: "React",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Taliwind CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Three.js",
-        color: "pink-text-gradient",
-      },
-       {
-        name: "Javascript",
-        color: "red-text-gradient",
-      },
-    ],
-    image: portfolio,
-    source_code_link: "https://github.com/Cyber3079/Portfolio",
-    live_demo: "https://portfolio.matlhaelakeitumetse.workers.dev/ "
-  },
+//   {
+//     name: "Keitumetse's Portfolio",
+//     description:
+//       "The page is organized to show developers information. It highlights an overview combining full-stack web development and embedded systems engineering expertise, showcases professional Work experience , details community-focused prototypes, and ends with an interactive contact form.",
+//     tags: [
+//       {
+//         name: "React",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "Taliwind CSS",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "Three.js",
+//         color: "pink-text-gradient",
+//       },
+//        {
+//         name: "Javascript",
+//         color: "red-text-gradient",
+//       },
+//     ],
+//     image: portfolio,
+//     source_code_link: "https://github.com/Cyber3079/Portfolio",
+//     live_demo: "https://portfolio.matlhaelakeitumetse.workers.dev/ "
+//   },
 
  
-];
+ ];
 
 export { services, technologies, experiences, projects };
